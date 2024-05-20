@@ -1,0 +1,7 @@
+C:\Users\sanuj\OneDrive\Desktop\C#2\Lab_Sheet03_Q1\Lab_Sheet03_Q1\obj\Debug\Lab_Sheet03_Q1.csproj.AssemblyReference.cache
+C:\Users\sanuj\OneDrive\Desktop\C#2\Lab_Sheet03_Q1\Lab_Sheet03_Q1\obj\Debug\Lab_Sheet03_Q1.csproj.CoreCompileInputs.cache
+C:\Users\sanuj\OneDrive\Desktop\C#2\Lab_Sheet03_Q1\Lab_Sheet03_Q1\bin\Debug\Lab_Sheet03_Q1.exe.config
+C:\Users\sanuj\OneDrive\Desktop\C#2\Lab_Sheet03_Q1\Lab_Sheet03_Q1\bin\Debug\Lab_Sheet03_Q1.exe
+C:\Users\sanuj\OneDrive\Desktop\C#2\Lab_Sheet03_Q1\Lab_Sheet03_Q1\bin\Debug\Lab_Sheet03_Q1.pdb
+C:\Users\sanuj\OneDrive\Desktop\C#2\Lab_Sheet03_Q1\Lab_Sheet03_Q1\obj\Debug\Lab_Sheet03_Q1.exe
+C:\Users\sanuj\OneDrive\Desktop\C#2\Lab_Sheet03_Q1\Lab_Sheet03_Q1\obj\Debug\Lab_Sheet03_Q1.pdb
